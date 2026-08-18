@@ -10,8 +10,11 @@ autoinstall:
     - identity
 
   identity:
-    hostname: ubuntu-workstation
-    username: usuario
+    hostname: ubuntu-felder
+    username: felder
+    realname: Francisco Elder
+    # Hash placeholder (cumple con la validación de esquema de Subiquity)
+    password: "$6$placeholder$d.p8g5E5cR0C.d2q0.a9L1f5z0.gM1q3s0."
 
   ssh:
     install-server: true
