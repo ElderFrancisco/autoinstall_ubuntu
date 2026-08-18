@@ -64,7 +64,6 @@ autoinstall:
     - libffi-dev
     - liblzma-dev
     - libm17n-0
-    - libmarisa0
     - libncurses-dev
     - libopencc-data
     - libopencc1.1
