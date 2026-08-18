@@ -36,7 +36,6 @@ autoinstall:
     - curl
     - dash
     - diffutils
-    - eea
     - efibootmgr
     - findutils
     - git
